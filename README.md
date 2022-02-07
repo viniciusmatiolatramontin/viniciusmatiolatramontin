@@ -2,11 +2,9 @@
 
 Olá, me chamo Vinícius e atualmente estou:
 
-☕ Fazendo um curso de Java na udemy
-
 🎓 Fazendo faculdade de Ciência da Computação na FURB
 
-🤖 Trabalhando em um bot para o discord inspirado na personagem GLaDOS do jogo portal.
+🇧🇷 Criando uma api com dados de estados do Brasil
 
 ✉️ Contate-me pelo e-mail: viniciusmatiolatramontin@gmail.com
 

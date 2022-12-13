@@ -2,13 +2,13 @@
 
 Olá, me chamo Vinícius e atualmente estou:
 
-🎓 Fazendo faculdade de Ciência da Computação na FURB
+🎓 Fazendo faculdade de Ciência da Computação na FURB!
 
-🐺 Criando uma API de seres vivos
+🐺 Criando uma API de seres vivos!
 
+🖥️ Estudando Spring Framework na pratica!
 
-
-✉️ Contate-me pelo e-mail: viniciusmatiolatramontin@gmail.com
+<br>
 
 <div align="center">
   <a href="https://github.com/VinyMT">
@@ -16,12 +16,14 @@ Olá, me chamo Vinícius e atualmente estou:
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmatiolatramontin&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <a href="mailto:viniciusmatiolatramontin@gmail.com" /><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</div>
-
+# Minhas Skills:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,spring,postgres,mysql&theme=light" />
   </a>
 </p>
+  
+# Contatos:
+<div style="display: inline_block"><br>
+  <a href="mailto:viniciusmatiolatramontin@gmail.com" /><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</div>

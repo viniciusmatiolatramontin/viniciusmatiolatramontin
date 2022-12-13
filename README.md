@@ -4,7 +4,7 @@ Olá, me chamo Vinícius e atualmente estou:
 
 🎓 Fazendo faculdade de Ciência da Computação na FURB
 
-🇧🇷 Criando uma api com dados de estados do Brasil
+🐺 Criando uma API de seres vivos
 
 ✉️ Contate-me pelo e-mail: viniciusmatiolatramontin@gmail.com
 

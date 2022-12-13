@@ -6,6 +6,8 @@ Olá, me chamo Vinícius e atualmente estou:
 
 🐺 Criando uma API de seres vivos
 
+
+
 ✉️ Contate-me pelo e-mail: viniciusmatiolatramontin@gmail.com
 
 <div align="center">
@@ -15,12 +17,11 @@ Olá, me chamo Vinícius e atualmente estou:
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" height="150" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" height="150" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-  <img align="center" height="150" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-</div>
-  
-<div style="display: inline_block"><br>
   <a href="mailto:viniciusmatiolatramontin@gmail.com" /><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,spring,postgres,mysql&theme=light" />
+  </a>
+</p>

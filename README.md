@@ -13,7 +13,7 @@ Olá, me chamo Vinícius e atualmente estou:
 <div align="center">
   <a href="https://github.com/VinyMT">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusmatiolatramontin&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmatiolatramontin&hide_progress=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmatiolatramontin&theme=radical"/>
 </div>
   
 # Minhas Skills:

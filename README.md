@@ -4,7 +4,7 @@ Olá, me chamo Vinícius e atualmente estou:
 
 🎓 Fazendo faculdade de Ciência da Computação na FURB!
 
-🎮 Criando uma To-Play List em Spring Boot
+💬 Criando uma API de chat com websocket!
 
 🖥️ Estudando Spring Framework na pratica!
 

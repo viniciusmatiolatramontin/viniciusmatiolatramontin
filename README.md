@@ -4,7 +4,10 @@ Olá, me chamo Vinícius e atualmente estou:
 
 🎓 Fazendo faculdade de Ciência da Computação na FURB!
 
-🔢 Criando uma API geradora de números da loteria
+Atualmente criei:
+
+🔢 Uma API geradora de números da loteria!
+🎮 Uma API para criação de uma "to play list", ou seja, uma lista de jogos que você planeja jogar!
 
 🖥️ Estudando Spring Framework na pratica!
 

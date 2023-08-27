@@ -7,6 +7,9 @@ Me chamo Vinícius e atualmente estou:
 
 🖥️ Estudando Spring Framework na pratica!
 
+
+🐍 Iniciando meus estudos em python!
+
 # Projetos concluidos:
 
 🔢 Uma API geradora de números da loteria!

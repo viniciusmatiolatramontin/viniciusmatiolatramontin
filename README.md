@@ -1,15 +1,18 @@
 # Olá, seja bem vinde ao meu perfil!😀
 
-Olá, me chamo Vinícius e atualmente estou:
+Me chamo Vinícius e atualmente estou:
 
 🎓 Fazendo faculdade de Ciência da Computação na FURB!
 
-Atualmente criei:
-
-🔢 Uma API geradora de números da loteria!
-🎮 Uma API para criação de uma "to play list", ou seja, uma lista de jogos que você planeja jogar!
 
 🖥️ Estudando Spring Framework na pratica!
+
+# Projetos concluidos:
+
+🔢 Uma API geradora de números da loteria!
+
+
+🎮 Uma API para criação de uma "to play list", ou seja, uma lista de jogos que você planeja jogar!
 
 <br>
 
@@ -28,5 +31,5 @@ Atualmente criei:
   
 # Contatos:
 <div style="display: inline_block"><br>
-  <a href="mailto:viniciusmatiolatramontin@gmail.com" /><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:viniciusmatiolatramontin1@gmail.com" /><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>

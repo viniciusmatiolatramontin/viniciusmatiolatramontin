@@ -12,7 +12,7 @@ Me chamo Vinícius e atualmente estou:
 
 # Projetos concluidos:
 
-🔢 Uma API geradora de números da loteria!
+🔢 Uma API geradora de números da loteria com autenticação por oAuth2 e histórico de números gerados!
 
 
 🎮 Uma API para criação de uma "to play list", ou seja, uma lista de jogos que você planeja jogar!

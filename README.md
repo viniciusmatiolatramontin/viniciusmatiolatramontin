@@ -24,13 +24,15 @@ Me chamo Vinícius e atualmente estou:
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusmatiolatramontin&show_icons=true&theme=radical"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmatiolatramontin&theme=radical"/>
 </div>
-  
+
 # Minhas Skills:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,spring,postgres,mysql&theme=light" />
   </a>
 </p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=44nt73j10v571zwmz70fx1i9c&cover_image=true&theme=default&show_offline=false&background_color=1d1d1d&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=44nt73j10v571zwmz70fx1i9c&redirect=true)
   
 # Contatos:
 <div style="display: inline_block"><br>

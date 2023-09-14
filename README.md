@@ -33,6 +33,6 @@ Me chamo Vinícius e atualmente estou:
 </p>
 
 # Contatos:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <a href="mailto:viniciusmatiolatramontin1@gmail.com" /><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>

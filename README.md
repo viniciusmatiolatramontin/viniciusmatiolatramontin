@@ -12,10 +12,10 @@ Me chamo Vinícius e atualmente estou:
 
 # Projetos concluidos:
 
-🔢 Uma API geradora de números da loteria com autenticação por oAuth2 e histórico de números gerados!
+🔢 Um Web Service gerador de números da loteria feito com Spring Framework e com autenticação por oAuth2!
 
 
-🎮 Uma API para criação de uma "to play list", ou seja, uma lista de jogos que você planeja jogar!
+🎮 Uma API para criação de uma "To play list", ou seja, uma lista de jogos que você planeja jogar! Feita com Spring Security, Spring Web e PostgreSQL
 
 <br>
 

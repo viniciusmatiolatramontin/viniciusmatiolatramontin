@@ -28,7 +28,7 @@ Me chamo Vinícius e atualmente estou:
 # Minhas Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,spring,postgres,mysql&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,java,spring,postgres&theme=light" />
   </a>
 </p>
 

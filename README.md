@@ -1,4 +1,4 @@
-# Olá, seja bem vinde ao meu perfil!😀
+# Olá, seja bem vindo(a) ao meu perfil!😀
 
 Me chamo Vinícius e atualmente estou:
 

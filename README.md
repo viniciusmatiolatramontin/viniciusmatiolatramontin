@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusmatiolatramontin&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="viniciusmatiolatramontin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusmatiolatramontin&show_icons=true&theme=synthwave&locale=en" alt="viniciusmatiolatramontin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusmatiolatramontin&show_icons=true&locale=en" alt="viniciusmatiolatramontin" /></p>

@@ -6,7 +6,7 @@
 - 🔭 Atualmente desenvolvi o projeto [ToPlayList (Uma API para listar os jogos que você planeja jogar, inspirada no site Backloggd)](https://github.com/viniciusmatiolatramontin/ToPlayList)
 
 - ⚡ Também desenvolvi o projeto [Loto-gen (API REST para gerar números aleatórios de loterias brasileiras)](https://github.com/viniciusmatiolatramontin/loto-gen)
-- 
+
 - 🌱 Atualmente estou aprendendo **Testes unitários com JUnit e Spring Boot**
 
 - 📫 Email **viniciusmatiolatramontin1@gmail.com**

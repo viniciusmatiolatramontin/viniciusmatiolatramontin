@@ -7,7 +7,8 @@
 
 - ⚡ Também desenvolvi o projeto [Loto-gen (API REST para gerar números aleatórios de loterias brasileiras)](https://github.com/viniciusmatiolatramontin/loto-gen)
 
-- 🌱 Atualmente estou aprendendo **Testes unitários com JUnit e Spring Boot**
+- 🌱 Atualmente estou desenvolvendo [a API do meu próximo projeto, EzBudget (Uma aplicação web para controle de finanças pessoais)](https://github.com/viniciusmatiolatramontin/EzBudgetAPI.git)
+
 
 - 📫 Email **viniciusmatiolatramontin1@gmail.com**
 

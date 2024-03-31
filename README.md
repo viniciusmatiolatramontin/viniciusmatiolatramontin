@@ -7,7 +7,7 @@
 
 - ⚡ Também desenvolvi o projeto [Loto-gen (API REST para gerar números aleatórios de loterias brasileiras)](https://github.com/viniciusmatiolatramontin/loto-gen)
 
-- 🌱 Atualmente estou desenvolvendo [a API do meu próximo projeto, EzBudget (Uma aplicação web para controle de finanças pessoais)](https://github.com/viniciusmatiolatramontin/EzBudgetAPI.git)
+- 🌱 Atualmente estou desenvolvendo [a API do meu próximo projeto, CapivaraFinance (Uma aplicação web para controle de finanças pessoais)](https://github.com/viniciusmatiolatramontin/CapivaraFinance-Back-End.git)
 
 
 - 📫 Email **viniciusmatiolatramontin1@gmail.com**

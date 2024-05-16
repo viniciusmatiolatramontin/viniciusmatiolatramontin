@@ -3,12 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusmatiolatramontin&label=Profile%20views&color=9d23a0&style=flat-square" alt="viniciusmatiolatramontin" /> </p>
 
+- 🌱 Atualmente estou testando [o meu mais recente projeto, CapivaraFinance (Uma API REST para controle de finanças pessoais)](https://github.com/viniciusmatiolatramontin/CapivaraFinance-Back-End.git)
+
 - 🔭 Atualmente desenvolvi o projeto [ToPlayList (Uma API para listar os jogos que você planeja jogar, inspirada no site Backloggd)](https://github.com/viniciusmatiolatramontin/ToPlayList)
 
 - ⚡ Também desenvolvi o projeto [Loto-gen (API REST para gerar números aleatórios de loterias brasileiras)](https://github.com/viniciusmatiolatramontin/loto-gen)
-
-- 🌱 Atualmente estou testando [o meu próximo projeto, CapivaraFinance (Uma API REST para controle de finanças pessoais)](https://github.com/viniciusmatiolatramontin/CapivaraFinance-Back-End.git)
-
 
 - 📫 Email **viniciusmatiolatramontin1@gmail.com**
 

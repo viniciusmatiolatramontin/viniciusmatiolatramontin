@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, meu nome é Vinícius Matiola Trammontin</h1>
+<h1 align="center">Olá 👋, meu nome é Vinícius Matiola Tramontin</h1>
 <h3 align="center">Sou um estudante de Ciência da Computação na FURB (Universidade Regional de Blumenau)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusmatiolatramontin&label=Profile%20views&color=9d23a0&style=flat-square" alt="viniciusmatiolatramontin" /> </p>

@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusmatiolatramontin&label=Profile%20views&color=9d23a0&style=flat-square" alt="viniciusmatiolatramontin" /> </p>
 
-- 🌱 Atualmente estou testando [o meu mais recente projeto, CapivaraFinance (Uma API REST para controle de finanças pessoais)](https://github.com/viniciusmatiolatramontin/CapivaraFinance-Back-End.git)
+- 💻 Atualmente estou cursando o 9º semestre da faculdade de Ciência da Computação na FURB e trabalhando como Desenvolvedor de Software I na Senior Sistemas
 
-- 🔭 Atualmente desenvolvi o projeto [ToPlayList (Uma API para listar os jogos que você planeja jogar, inspirada no site Backloggd)](https://github.com/viniciusmatiolatramontin/ToPlayList)
+- 🔭 Desenvolvi o projeto [ToPlayList (Uma API para listar os jogos que você planeja jogar, inspirada no site Backloggd)](https://github.com/viniciusmatiolatramontin/ToPlayList)
 
 - ⚡ Também desenvolvi o projeto [Loto-gen (API REST para gerar números aleatórios de loterias brasileiras)](https://github.com/viniciusmatiolatramontin/loto-gen)
 
